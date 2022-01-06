@@ -34,13 +34,7 @@ section{
     font-weight: 700;
     border-radius: 5px;
 }
-span{
-    text-decoration: none;
-    background-color: orangered;
-    padding: 10px 40px;
-    color: white;
-    font-weight: 700;
-    border-radius: 5px;
+
 }.top bannar{
     background-image: url(image/shape-1.png);
     background-repeat: no-repeat;
@@ -48,4 +42,7 @@ span{
 .text-align{
     text-align: center;
     background-color: yellowgreen;
+}
+.text-center{
+    text-align: center;
 }
