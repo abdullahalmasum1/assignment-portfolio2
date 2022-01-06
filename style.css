@@ -26,3 +26,11 @@ section{
     padding-left: 10%;
     padding: 5%;
 }
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
